@@ -1,4 +1,4 @@
-# React application with Express server
+# React application calling API Twilio server
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Then an Express server was added in the `server` directory. The server is proxied via the `proxy` key in `package.json`.
 
